@@ -1,6 +1,10 @@
 # bu-joresearch2020
-yay class! 
-this is the best class ever.
 
-README is where I let the public know about what I am hosting.
+**TEST - CLASS EXERCISE** 
+
+**Campaign Contributions to President Donald Trump from people in Massachusetts in 2019 and 2020**
+
+* Issues with the data: 
+
+*Data Source: Federal Elections Commission*
 
